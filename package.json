@@ -1,8 +1,8 @@
 {
-  "name": "project-name",
+  "name": "plants",
   "version": "1.0.0",
   "description": "description-here",
-  "main": "index.js",
+  "main": "plants.js",
   "scripts": {
     "build": "webpack --mode development",
     "start": "npm run build; webpack-dev-server --open --mode development",
